@@ -4,9 +4,7 @@ This is a demo app for showing Visual Studio "Monaco" online IDE. A WebApp for S
 | ID	| Content |
 |-------|---------|
 | 1     |  帮助Scrum团队完成每日立会 |
-|-------|---------|
 | 2     |  使用bing每日美图作为背景 |
-|-------|---------|
 | 3     |  背景音乐 |
 
 ## Original Code from 
