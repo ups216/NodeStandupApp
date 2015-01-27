@@ -7,7 +7,7 @@ exports.route = function(req, res) {
 
   //The url we want is: 'http://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1'
   var options = {
-    host: 'www.bing.com',
+    host: 'cn.bing.com',
     path: '/HPImageArchive.aspx?format=js&idx=0&n=1'
   };
 
@@ -28,7 +28,7 @@ exports.route = function(req, res) {
         
         res.writeHead(200, {"Content-Type": "application/json"});
         res.end(JSON.stringify({
-          url: 'http://www.bing.com' + url,
+          url: url,
           label: label
         }));
       } catch (error) {
