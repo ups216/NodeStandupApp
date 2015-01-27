@@ -13,4 +13,6 @@ This is a demo app for showing Visual Studio "Monaco" online IDE. A WebApp for S
 ## Read more information from
 [MSDN Blog of Monaco Team](http://blogs.msdn.com/b/monaco/archive/2014/03/27/stand-up-developing-a-node-js-application-using-monaco-part-1.aspx)
 
+## This is a demo for MVP ComCamp 2015
+![](mvpopenday.jpg)
 
