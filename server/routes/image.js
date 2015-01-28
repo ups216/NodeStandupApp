@@ -1,4 +1,4 @@
-
+﻿
 'use strict';
 
 var http = require('http');
@@ -7,7 +7,10 @@ exports.route = function(req, res) {
 
   //The url we want is: 'http://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1'
   var options = {
-    host: 'cn.bing.com',
+    // Mooncake
+    // host: 'cn.bing.com',
+    // Global
+    host: 'www.bing.com',
     path: '/HPImageArchive.aspx?format=js&idx=0&n=1'
   };
 
@@ -28,7 +31,10 @@ exports.route = function(req, res) {
         
         res.writeHead(200, {"Content-Type": "application/json"});
         res.end(JSON.stringify({
+          // Mooncake
           url: url,
+          // Global
+          //url: 'http://www.bing.com/' + url,
           label: label
         }));
       } catch (error) {
