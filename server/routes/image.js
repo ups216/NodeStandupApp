@@ -8,9 +8,9 @@ exports.route = function(req, res) {
   //The url we want is: 'http://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1'
   var options = {
     // Mooncake
-    // host: 'cn.bing.com',
+    host: 'cn.bing.com',
     // Global
-    host: 'www.bing.com',
+    //host: 'www.bing.com',
     path: '/HPImageArchive.aspx?format=js&idx=0&n=1'
   };
 
