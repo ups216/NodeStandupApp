@@ -8,12 +8,3 @@ This is a demo app for showing Visual Studio "Monaco" online IDE. A WebApp for S
 ## Read more information from 开发者博客地址
 [MSDN Blog of Monaco Team](http://blogs.msdn.com/b/monaco/archive/2014/03/27/stand-up-developing-a-node-js-application-using-monaco-part-1.aspx)
 
-## Features
-| ID	| Content |
-|-------|---------|
-| 1     |  帮助Scrum团队完成每日立会 |
-| 2     |  使用bing每日美图作为背景 |
-| 3     |  背景音乐 |
-
-## This is a demo for MVP ComCamp 2015
-![](mvpopenday.jpg)
