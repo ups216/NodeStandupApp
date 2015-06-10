@@ -8,3 +8,5 @@ This is a demo app for showing Visual Studio "Monaco" online IDE. A WebApp for S
 ## Read more information from 开发者博客地址
 [MSDN Blog of Monaco Team](http://blogs.msdn.com/b/monaco/archive/2014/03/27/stand-up-developing-a-node-js-application-using-monaco-part-1.aspx)
 
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
