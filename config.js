@@ -14,7 +14,7 @@
 // - F5 https://stand-red.azurewebsites.net
 
 exports.users = [
-	{ "name": "Martin" },
+	{ "name": "Lei Xu" },
 	{ "name": "Isidor" },
 	{ "name": "Joh" },
 	{ "name": "André" },
