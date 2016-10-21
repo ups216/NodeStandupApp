@@ -15,13 +15,5 @@
 
 exports.users = [
 	{ "name": "Lei Xu" },
-	{ "name": "Isidor" },
-	{ "name": "Joh" },
-	{ "name": "André" },
-	{ "name": "João" },
-	{ "name": "Ben" },
-	{ "name": "Alex" },
-	{ "name": "Erich" },
-	{ "name": "Dirk" },
-	{ "name": "Redmond" }
+	{ "name": "Wilson Bo"}
 ];
