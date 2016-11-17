@@ -15,8 +15,7 @@
 
 exports.users = [
 	{ "name": "Lei Xu" },
-	{ "name": "杨作铭" },
-	{ "name": "耿杨" },
-	{ "name": "Peter Hu" },
-	{ "name": "Wilson Bo"}
+	{ "name": "Lei Xu" },
+	{ "name": "Lei Xu" },
+	{ "name": "Lei Xu" }
 ];
